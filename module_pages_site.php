@@ -1,0 +1,3 @@
+<?php
+$includepage = "player.php";
+?>

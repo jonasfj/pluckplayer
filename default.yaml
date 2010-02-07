@@ -1,0 +1,11 @@
+skin: mp3music
+width: 700
+height: 500
+activeDownload: true
+alphabetize: true
+autoload: true
+autoplay: false
+repeat: false
+repeat_playlist: true
+shuffle: false
+crossFade: false

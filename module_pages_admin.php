@@ -1,0 +1,3 @@
+<?php
+$startpage = "playlist.php";
+?>
