@@ -13,7 +13,7 @@ $module_dir = "pluckplayer";
 $module_icon = "images/icon.png";
 
 #Version of my module
-$module_version = "1.0";
+$module_version = "1.1";
 
 #Author
 $module_author = "Jonas Finnemann Jensen";
