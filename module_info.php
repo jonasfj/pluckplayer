@@ -19,7 +19,7 @@ $module_version = "1.1";
 $module_author = "Jonas Finnemann Jensen";
 
 #Website:
-$module_website = "http://jopsen.dk/blog/2009/10/musicplayer-module-for-pluck";
+$module_website = "http://github.com/jopsen/pluckplayer";
 
 #Module compatibility
 $module_compatibility = "4.6";
